@@ -1,0 +1,47 @@
+[
+ {
+  "id":"1",
+  "name":"Caloocan",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"2",
+  "name":"Valenzuela",
+  "parent_id":"0"
+ },
+ {
+  "id":"3",
+  "name":"Quezon City",
+  "parent_id":"0"
+ },
+ {
+  "id":"4",
+  "name":"Sta.Quiteria",
+  "parent_id":"1"
+ },
+ {
+  "id":"5",
+  "name":"Karuhatan",
+  "parent_id":"2"
+ },
+ {
+  "id":"6",
+  "name":"Balintawak",
+  "parent_id":"3"
+ },
+ {
+  "id":"7",
+  "name":"1402",
+  "parent_id":"4"
+ },  
+ {
+  "id":"8",
+  "name":"1441",
+  "parent_id":"5"
+ },  
+ {
+  "id":"9",
+  "name":"1106",
+  "parent_id":"6"
+ }
+]

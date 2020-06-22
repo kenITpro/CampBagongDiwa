@@ -1,0 +1,43 @@
+/* your styles go here */
+.modal-content{
+	background-color: #191B21;
+}
+.modal-body{
+	background-color: #191B21;
+}
+.input-material{
+	background-color: #191B21;
+}
+input.input-material{
+	border-bottom: 1px solid #aaa;
+}
+input.input-material:focus{
+	border-bottom: 1px solid #FFC107;
+}
+.btn-warning{
+	color: #ffffff;
+}
+.btn-warning:hover{
+	color: #ffffff;
+}
+input.input-material ~ label.active{
+	color: #FFC107;
+}
+.close{
+	color: white;
+}
+.close:hover{
+	color: red;
+}
+.zoomImage{
+	overflow: hidden;
+}
+img[id="zoomImage"]{
+	max-width: 100%;
+	max-height: 100%;
+	transition: 0.75s;
+}
+.zoomImage:hover img[id="zoomImage"]{
+	transform: scale(0.95);
+}
+
